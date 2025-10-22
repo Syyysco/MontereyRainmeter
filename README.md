@@ -67,10 +67,11 @@ So far we support 4 languages
 
 | |Language|
 |-|-|
-|<img src="https://github.com/yammadev/flag-icons/blob/master/png/RU@2x.png?raw=true" width="20px" />| Russian |
+|<img src="https://github.com/yammadev/flag-icons/blob/master/png/RU@2x.png?raw=true" width="20px" />| Russian   |
 |<img src="https://github.com/yammadev/flag-icons/blob/master/png/UA@2x.png?raw=true" width="20px" />| Ukrainian |
-|<img src="https://github.com/yammadev/flag-icons/blob/master/png/US@2x.png?raw=true" width="20px" />| English |
-|<img src="https://github.com/yammadev/flag-icons/blob/master/png/DE@2x.png?raw=true" width="20px" />| German |
+|<img src="https://github.com/yammadev/flag-icons/blob/master/png/US@2x.png?raw=true" width="20px" />| English   |
+|<img src="https://github.com/yammadev/flag-icons/blob/master/png/DE@2x.png?raw=true" width="20px" />| German    |
+|<img src="https://github.com/yammadev/flag-icons/blob/master/png/ES@2x.png?raw=true" width="20px" />| Spanish   |
 
 ## Special thanks
 
